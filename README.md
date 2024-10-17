@@ -1,2 +1,2 @@
 # Guess-My-Number
-<href http://127.0.0.1:3000/Guess-My-Number/index.html/>
+http://127.0.0.1:5500/Guess-My-Number/index.html
